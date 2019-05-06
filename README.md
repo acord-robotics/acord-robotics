@@ -27,3 +27,8 @@ This repository is also home to future ACORD posts, whether they go towards the 
 * [App](http://github.com/acord-robotics/app) --- All code for the app
 * [Website](http://github.com/acord-robotics/website) --- ACORD portal backup
 * [Stellarios Learning](http://github.com/acord-robotics/sl) --- Our journey to learning how to develop
+* Different types of droids (Companion, Scientific, etc). Each category will have a repository, as well as be in the Star Sailors Repo
+
+Every repo will be copied into Star Sailors
+
+More to come!
