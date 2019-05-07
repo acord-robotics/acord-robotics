@@ -31,4 +31,19 @@ This repository is also home to future ACORD posts, whether they go towards the 
 
 Every repo will be copied into Star Sailors
 
-More to come!
+## Member Repositories
+
+Our members have their own personal github accounts,  where they have repositories not related to ACORD but are still worth mentioning.
+
+### Member Accounts
+
+* [Liam Arbuckle](http://github.com/irisdroidology) --- Our Chairman & Co-Founder publishes content to do with his schooling as well as his computer science projects. These projects will help him when it comes to developing with ACORD (which he is also doing)
+* [Farid](http://github.com/mfaridn03) --- Farid is a sort of fringe member of ACORD. He helps us with Python stuff
+
+### Other companies
+
+* [Orgzy Design](http://github.com/orgzy-design) --- Liam Arbuckle's web development company. 20% of the profits go towards ACORD
+
+### Liam's Repositories
+
+* [Games](http://github.com/irisdroidology/expert-goggles) --- A number of games created in numerous languages. One is a role playing game from the perspective of the Mars rover
