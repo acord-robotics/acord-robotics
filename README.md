@@ -47,3 +47,7 @@ Our members have their own personal github accounts,  where they have repositori
 ### Liam's Repositories
 
 * [Games](http://github.com/irisdroidology/expert-goggles) --- A number of games created in numerous languages. One is a role playing game from the perspective of the Mars rover
+
+## Stellarios Learning
+* [Raspberry Pi](https://gitlab.com/acord-robotics/robodev/s2rd-raspberry-pi)
+* [C++](https://gitlab.com/IrisDroidology/cpp-tutorial-vLnPwxZdW4Y)
