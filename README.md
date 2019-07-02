@@ -23,7 +23,7 @@ This repository is also home to future ACORD posts, whether they go towards the 
 * [ACORD News](http://acord-robotics.github.io/acordnews) --- Basically a public blog for ACORD
 * [Mushlantis & ACORD Worlds](http://gitlab.com/acord-robotics)
 * [Unity Games](https://gitlab.com/IrisDroidology/unity-projects)
-* [Star Sailors Draft](https://gitlab.com/IrisDroidology/star-sailors)
+* [Star Sailors Draft](https://gitlab.com/IrisDroidology/star-sailors) - the draft of star sailors
 
 ## Future ACORD Repositories
 
