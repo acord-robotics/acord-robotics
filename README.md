@@ -34,7 +34,17 @@ This repository is also home to future ACORD posts, whether they go towards the 
 
 Every repo will be copied into Star Sailors
 
-## Member Repositories
+# Orgzy Design
+Orgzy Design, founded by our chairman in 2019, is a website and software development company. Orgzy work closely with ACORD and a number of our games (for example the Star Sailors game) will be based on games created by Orgzy. Orgzy are currently working on a game called "Asteroid Dodger", created in the Unity Game Engine. 
+
+Orgzy can be thought of as a separate company that employs many ACORD programmers to create programs for ACORD. The programs created for ACORD will not be sold to the public, however Asteroid Dodger (the non-Star Sailors version) will not be private.
+
+The code created for Asteroid Dodger will be used to create different apps/games for ACORD.
+
+## Repositories
+* [Asteroid Dodger](http://github.com/irisdroidology/unityballs)
+
+# Member Repositories
 
 Our members have their own personal github accounts,  where they have repositories not related to ACORD but are still worth mentioning.
 
