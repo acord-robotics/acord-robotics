@@ -22,7 +22,7 @@ This repository is also home to future ACORD posts, whether they go towards the 
 * [Star Sailors](http://github.com/acord-robotics/starsailors) --- All news to do with Droid Building, some Stellarios info, etc is here, as well as all Stellarios code (which is also on the Stellarios repo). View the [blog here](http://acord-robotics.github.io/starsailors)
 * [ACORD News](http://acord-robotics.github.io/acordnews) --- Basically a public blog for ACORD
 * [Mushlantis & ACORD Worlds](http://gitlab.com/acord-robotics)
-* [Unity Games](https://gitlab.com/IrisDroidology/unity-projects)
+* [Unity Games](https://gitlab.com/IrisDroidology/unityballs)
 * [Star Sailors Draft](https://gitlab.com/IrisDroidology/star-sailors) - the draft of star sailors
 
 ## Future ACORD Repositories
