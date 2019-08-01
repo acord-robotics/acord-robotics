@@ -22,7 +22,7 @@ This repository is also home to future ACORD posts, whether they go towards the 
 * [Star Sailors](http://github.com/acord-robotics/starsailors) --- All news to do with Droid Building, some Stellarios info, etc is here, as well as all Stellarios code (which is also on the Stellarios repo). View the [blog here](http://acord-robotics.github.io/starsailors)
 * [ACORD News](http://acord-robotics.github.io/acordnews) --- Basically a public blog for ACORD
 * [Mushlantis & ACORD Worlds](http://gitlab.com/acord-robotics)
-* [Unity Games](https://gitlab.com/IrisDroidology/unity-projects)
+* [Unity Games](https://gitlab.com/IrisDroidology/unityballs)
 * [Star Sailors Draft](https://gitlab.com/IrisDroidology/star-sailors) - the draft of star sailors
 
 ## Future ACORD Repositories
@@ -34,7 +34,17 @@ This repository is also home to future ACORD posts, whether they go towards the 
 
 Every repo will be copied into Star Sailors
 
-## Member Repositories
+# Orgzy Design
+Orgzy Design, founded by our chairman in 2019, is a website and software development company. Orgzy work closely with ACORD and a number of our games (for example the Star Sailors game) will be based on games created by Orgzy. Orgzy are currently working on a game called "Asteroid Dodger", created in the Unity Game Engine. 
+
+Orgzy can be thought of as a separate company that employs many ACORD programmers to create programs for ACORD. The programs created for ACORD will not be sold to the public, however Asteroid Dodger (the non-Star Sailors version) will not be private.
+
+The code created for Asteroid Dodger will be used to create different apps/games for ACORD.
+
+## Repositories
+* [Asteroid Dodger](http://github.com/irisdroidology/unityballs)
+
+# Member Repositories
 
 Our members have their own personal github accounts,  where they have repositories not related to ACORD but are still worth mentioning.
 
@@ -54,3 +64,9 @@ Our members have their own personal github accounts,  where they have repositori
 ## Stellarios Learning
 * [Raspberry Pi](https://gitlab.com/acord-robotics/robodev/s2rd-raspberry-pi)
 * [C++](https://gitlab.com/IrisDroidology/cpp-tutorial-vLnPwxZdW4Y)
+
+
+# Project embeds
+## Games
+### Asteroid Dodgers
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/ccededa2-2c8b-4354-a0ee-f1d9b6223a91" id="M.RDRu6C6a.y"></iframe></div>
