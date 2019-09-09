@@ -70,3 +70,8 @@ Our members have their own personal github accounts,  where they have repositori
 ## Games
 ### Asteroid Dodgers
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/ccededa2-2c8b-4354-a0ee-f1d9b6223a91" id="M.RDRu6C6a.y"></iframe></div>
+
+# Our members
+
+## Farid Nurrahman
+Hi there! My name is Farid, and I am excited to join ACORD and become a pioneer of the future of robotics and artificial intelligence. I like to play games and program. I currently code a lot in Python and am working on a cool discord bot that will be part of Stellarios (the official OS of ACORD). I am not always able to be active at ACORD, but I will contribute where and when I can.
