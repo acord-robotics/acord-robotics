@@ -75,3 +75,6 @@ Our members have their own personal github accounts,  where they have repositori
 
 ## Farid Nurrahman
 Hi there! My name is Farid, and I am excited to join ACORD and become a pioneer of the future of robotics and artificial intelligence. I like to play games and program. I currently code a lot in Python and am working on a cool discord bot that will be part of Stellarios (the official OS of ACORD). I am not always able to be active at ACORD, but I will contribute where and when I can.
+
+## RexOfSpoon17
+https://www.tapatalk.com/groups/acordrobotics/hello-from-rexton-t6.html#p12 - link to intro of RexOfSpoon
