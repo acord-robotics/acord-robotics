@@ -78,3 +78,6 @@ Hi there! My name is Farid, and I am excited to join ACORD and become a pioneer 
 
 ## RexOfSpoon17
 https://www.tapatalk.com/groups/acordrobotics/hello-from-rexton-t6.html#p12 - link to intro of RexOfSpoon
+
+## j-brkr
+I'm gay
