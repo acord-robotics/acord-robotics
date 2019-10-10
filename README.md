@@ -1,14 +1,56 @@
 # acord-robotics
-The official ACORD Robotics (GENERAL) Repository
+The official ACORD Robotics Github/Gitlab Repository.
 
 # What is this repo?
 
-This repo is for all projects that aren't part of the following repos:
+ACORD is a multi-national corporation that aims to push the limits of technology, science, and robotics in ways never seen before. We're led by a team full of youngsters, including our Chairman, Liam Arbuckle (@IrisDroidology) who started this from the beginning way back in 2015. 
 
-* Stellarios
-* Star Sailors
-* DroidOS (Archived)
-* Acord News
+This repository (Github/acord-robotics/acord-robotics) is a directory, or a hub, for all the different projects that ACORD does, including:
+
+* Stellarios (software suite)
+* Star Sailors (Science fiction novella series)
+* DroidOS (Archived, moved into Stellarios)
+* ACORD Games
+* ACORD Networking
+* ACORD Code
+* ACORD Members
+* Other
+
+## ACORD Repositories
+
+- [Stellarios](http://github.com/acord-robotics/stellarios) --- All news to do with Droid Building, some Stellarios info, etc is here, as well as all Stellarios code (which is also on the Stellarios repo). View the [blog here View the [blog here](http://acord-robotics.github.io/stellarios)
+- [ACORD News](http://acord-robotics.github.io/acordnews) --- Basically a public blog for ACORD
+- [Mushlantis & ACORD Worlds](http://gitlab.com/acord-robotics)
+- [Unity Games](https://gitlab.com/IrisDroidology/unityballs)
+- [Star Sailors Draft](https://gitlab.com/IrisDroidology/star-sailors) - the draft of star sailors
+- [ACORD Portal](http://allianceofdroids.org.au)
+- ACORD Networking
+- ACORD Code
+- ACORD Members
+- ACORD Games
+
+### ACORD Games
+
+ACORD is working on a number of cool games. All of these games are open-source and are included in the Stellarios Software Suite by ACORD. Currently Asteroid Dodgers, made in the Unity Game Engine, is under development.
+
+### ACORD Networking
+
+We aim to push the limits of what's possible with networking devices for our research and innovation, including with routers and modems (for example).
+
+### ACORD Code
+
+ACORD Code, part of the Orgzy family, is a system where we build apps, games, and websites for third parties. It also includes our tutorials on coding so that anyone can learn how to code.
+
+## Future ACORD Repositories
+
+- [App](http://github.com/acord-robotics/app) --- All code for the app
+- [Website](http://github.com/acord-robotics/website) --- ACORD portal backup
+- [Stellarios Learning](http://github.com/acord-robotics/sl) --- Our journey to learning how to develop
+- Different types of droids (Companion, Scientific, etc). Each category will have a repository, as well as be in the Star Sailors Repo
+
+Every repo will be copied into Star Sailors
+
+# Other
 
 An example of this would be stuff to do with members' personal journeys (for example, I'm going to be posting a lot of my computer science stuff here). While this stuff is beneficial for ACORD, it doesn't belong to any particular project.
 
@@ -16,23 +58,7 @@ If a part of this repo becomes a project (repository) in its own right, we will 
 
 This repository is also home to future ACORD posts, whether they go towards the portal, medium, our acord news blog, etc.
 
-## ACORD Repositories
 
-* [Stellarios](http://github.com/acord-robotics/stellarios) --- Currently archived until further notice, this repository houses the files for different versions of Stellarios (Windows, Mac, iOS, Linux, Android, etc.), as well as development news (part of the blog part) and links to download it. View the [blog here](http://acord-robotics.github.io/stellarios)
-* [Star Sailors](http://github.com/acord-robotics/starsailors) --- All news to do with Droid Building, some Stellarios info, etc is here, as well as all Stellarios code (which is also on the Stellarios repo). View the [blog here](http://acord-robotics.github.io/starsailors)
-* [ACORD News](http://acord-robotics.github.io/acordnews) --- Basically a public blog for ACORD
-* [Mushlantis & ACORD Worlds](http://gitlab.com/acord-robotics)
-* [Unity Games](https://gitlab.com/IrisDroidology/unityballs)
-* [Star Sailors Draft](https://gitlab.com/IrisDroidology/star-sailors) - the draft of star sailors
-
-## Future ACORD Repositories
-
-* [App](http://github.com/acord-robotics/app) --- All code for the app
-* [Website](http://github.com/acord-robotics/website) --- ACORD portal backup
-* [Stellarios Learning](http://github.com/acord-robotics/sl) --- Our journey to learning how to develop
-* Different types of droids (Companion, Scientific, etc). Each category will have a repository, as well as be in the Star Sailors Repo
-
-Every repo will be copied into Star Sailors
 
 # Orgzy Design
 Orgzy Design, founded by our chairman in 2019, is a website and software development company. Orgzy work closely with ACORD and a number of our games (for example the Star Sailors game) will be based on games created by Orgzy. Orgzy are currently working on a game called "Asteroid Dodger", created in the Unity Game Engine. 
@@ -70,7 +96,6 @@ Our members have their own personal github accounts,  where they have repositori
 ## Games
 ### Asteroid Dodgers
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/ccededa2-2c8b-4354-a0ee-f1d9b6223a91" id="M.RDRu6C6a.y"></iframe></div>
-
 # Our members
 
 ## Farid Nurrahman
