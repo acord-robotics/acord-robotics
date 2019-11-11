@@ -99,7 +99,73 @@ Our members have their own personal github accounts,  where they have repositori
 # Our members
 
 ## Farid Nurrahman
-Hi there! My name is Farid, and I am excited to join ACORD and become a pioneer of the future of robotics and artificial intelligence. I like to play games and program. I currently code a lot in Python and am working on a cool discord bot that will be part of Stellarios (the official OS of ACORD). I am not always able to be active at ACORD, but I will contribute where and when I can.
+Hi there! My name is Farid, and I am excited to join ACORD and become a pioneer of the future of robotics and artificial intelligence. I like to play games and program. I currently code a lot in Python and am working on a cool discord bot that will be part of Stellarios (the official OS of ACORD). I am not always able to be active at ACORD, but I will contribute where and when I can. Here's some of my code:
+
+```py
+import aiohttp
+import random
+
+
+class Url:
+    def __init__(self):
+        self.apiUrl = "https://xkcd.com/{}/info.0.json"
+        self.comicUrl = "https://xkcd.com/{}"
+        self.explainUrl = "https://explainxkcd.com/{}"
+        self.infoUrl = "https://xkcd.com/info.0.json"
+
+
+url = Url()
+
+
+class Comic:
+    def __init__(self, json_info: dict):
+        self.info = json_info
+        self.title = json_info["safe_title"]
+        self.alt_text = json_info["alt"]
+        self.image = json_info["img"]
+        self.num = json_info["num"]
+        self.explanation = url.explainUrl.format(self.num)
+        self.url = url.comicUrl.format(self.num)
+
+
+async def fetch_json(num: int):
+    link = url.apiUrl.format(num)
+    async with aiohttp.ClientSession() as session:
+        async with session.get(link) as resp:
+            assert resp.status == 200  # To make sure there are no errors
+            return await resp.json()
+
+
+async def comic_check(c_num):
+    async with aiohttp.ClientSession() as ses:
+        async with ses.get(url.infoUrl) as res:
+            e = await res.json()
+    latest_comic = e["num"]
+    return int(latest_comic), int(c_num) <= int(latest_comic)
+
+
+async def get_comic(num):
+    num = int(num)
+
+    try:
+        assert (await comic_check(num))[1]
+    except AssertionError:
+        return None
+
+    j = await fetch_json(num)  # returns a json object
+    return Comic(j)
+
+
+async def get_random_comic():
+    lim, _ = await comic_check(1)  # Find the latest comic num
+    return await get_comic(random.randint(1, lim))
+
+
+async def get_latest_comic():
+    latest_num, _ = await comic_check(1)
+    return await get_comic(latest_num)
+
+```
 
 ## RexOfSpoon17
 https://www.tapatalk.com/groups/acordrobotics/hello-from-rexton-t6.html#p12 - link to intro of RexOfSpoon
