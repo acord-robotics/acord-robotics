@@ -3,7 +3,7 @@ The official ACORD Robotics Github/Gitlab Repository.
 
 # What is this repo?
 
-ACORD is a multi-national corporation that aims to push the limits of technology, science, and robotics in ways never seen before. We're led by a team full of youngsters, including our Chairman, Liam Arbuckle (@IrisDroidology) who started this from the beginning way back in 2015. 
+ACORD is a multi-national (started in Australia) corporation that aims to push the limits of technology, science, and robotics in ways never seen before. We're led by a team full of youngsters, including our Chairman, Liam Arbuckle (@IrisDroidology) who started this from the beginning way back in 2015. 
 
 This repository (Github/acord-robotics/acord-robotics) is a directory, or a hub, for all the different projects that ACORD does, including:
 
