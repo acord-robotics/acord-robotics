@@ -31,11 +31,11 @@ This repository (Github/acord-robotics/acord-robotics) is a directory, or a hub,
 
 ### ACORD Games
 
-ACORD is working on a number of cool games. All of these games are open-source and are included in the Stellarios Software Suite by ACORD. Currently Asteroid Dodgers, made in the Unity Game Engine, is under development.
+ACORD is working on a number of cool games. All of these games are open-source and are included in the Stellarios Software Suite by ACORD. Currently Asteroid Dodgers, made in the Unity Game Engine, is under development. Another game, Manacaster, is under (right now, will be acord-wide soon) personal development by @IrisDroidology.
 
 ### ACORD Networking
 
-We aim to push the limits of what's possible with networking devices for our research and innovation, including with routers and modems (for example).
+We aim to push the limits of what's possible with networking devices for our research and innovation, including with routers and modems (for example). 
 
 ### ACORD Code
 
