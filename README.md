@@ -1,5 +1,6 @@
 # acord-robotics
 The official ACORD Robotics Github/Gitlab Repository.
+Our website is located here: http://acord-robotics.github.io
 
 # What is this repo?
 
