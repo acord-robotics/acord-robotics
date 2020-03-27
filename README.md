@@ -1,175 +1,251 @@
-# acord-robotics
-The official ACORD Robotics Github/Gitlab Repository.
-Our website is located here: http://acord-robotics.github.io
+---
+description: >-
+  A software, scientific engineering and writing organization based in
+  Australia.
+---
 
-# What is this repo?
+# AC0/RD
 
-ACORD is a multi-national (started in Australia) corporation that aims to push the limits of technology, science, and robotics in ways never seen before. We're led by a team full of youngsters, including our Chairman, Liam Arbuckle (@IrisDroidology) who started this from the beginning way back in 2015. 
+ACORD Robotics is a software, scientific engineering and writing organisation that is based and was founded in Australia by Nicholas Antipas \(COO\) & Liam Arbuckle \(Chairman\), originally under the name Alliance of Droids. We create and contribute to open-source software that is used in scientific projects like the Open Source Rover by NASA's Jet Propulsion Laboratory.
 
-This repository (Github/acord-robotics/acord-robotics) is a directory, or a hub, for all the different projects that ACORD does, including:
-
-* Stellarios (software suite)
-* Star Sailors (Science fiction novella series)
-* DroidOS (Archived, moved into Stellarios)
-* ACORD Games
-* ACORD Networking
-* ACORD Code
-* ACORD Members
-* Other
-
-## ACORD Repositories
-
-- [Stellarios](http://github.com/acord-robotics/stellarios) --- All news to do with Droid Building, some Stellarios info, etc is here, as well as all Stellarios code (which is also on the Stellarios repo). View the [blog here View the [blog here](http://acord-robotics.github.io/stellarios)
-- [ACORD News](http://acord-robotics.github.io/acordnews) --- Basically a public blog for ACORD
-- [Mushlantis & ACORD Worlds](http://gitlab.com/acord-robotics)
-- [Unity Games](https://gitlab.com/IrisDroidology/unityballs)
-- [Star Sailors Draft](https://gitlab.com/IrisDroidology/star-sailors) - the draft of star sailors
-- [ACORD Portal](http://allianceofdroids.org.au)
-- ACORD Networking
-- ACORD Code
-- ACORD Members
-- ACORD Games
-
-### ACORD Games
-
-ACORD is working on a number of cool games. All of these games are open-source and are included in the Stellarios Software Suite by ACORD. Currently Asteroid Dodgers, made in the Unity Game Engine, is under development. Another game, Manacaster, is under (right now, will be acord-wide soon) personal development by @IrisDroidology.
-
-### ACORD Networking
-
-We aim to push the limits of what's possible with networking devices for our research and innovation, including with routers and modems (for example). 
-
-### ACORD Code
-
-ACORD Code, part of the Orgzy family, is a system where we build apps, games, and websites for third parties. It also includes our tutorials on coding so that anyone can learn how to code.
-
-## Future ACORD Repositories
-
-- [App](http://github.com/acord-robotics/app) --- All code for the app
-- [Website](http://github.com/acord-robotics/website) --- ACORD portal backup
-- [Stellarios Learning](http://github.com/acord-robotics/sl) --- Our journey to learning how to develop
-- Different types of droids (Companion, Scientific, etc). Each category will have a repository, as well as be in the Star Sailors Repo
-
-Every repo will be copied into Star Sailors
-
-# Other
-
-An example of this would be stuff to do with members' personal journeys (for example, I'm going to be posting a lot of my computer science stuff here). While this stuff is beneficial for ACORD, it doesn't belong to any particular project.
-
-If a part of this repo becomes a project (repository) in its own right, we will continue to update it on this repo as well, but the folder name will be changed to 'project_name_(archived)'.
-
-This repository is also home to future ACORD posts, whether they go towards the portal, medium, our acord news blog, etc.
+> Join a team full of talented individuals from around the globe. Chat, code, write, consume, repeat.
 
 
 
-# Orgzy Design
-Orgzy Design, founded by our chairman in 2019, is a website and software development company. Orgzy work closely with ACORD and a number of our games (for example the Star Sailors game) will be based on games created by Orgzy. Orgzy are currently working on a game called "Asteroid Dodger", created in the Unity Game Engine. 
+## Using this knowledge base
 
-Orgzy can be thought of as a separate company that employs many ACORD programmers to create programs for ACORD. The programs created for ACORD will not be sold to the public, however Asteroid Dodger (the non-Star Sailors version) will not be private.
+Everything that you need to know during your time as an AC0/RD member can be found here. This includes the project history, rules when committing to repositories on Github, how the network works and where to find certain things. Something important to remember is that the documentation for our _projects_ is located elsewhere, on the project page. 
 
-The code created for Asteroid Dodger will be used to create different apps/games for ACORD.
+### Project Documentation
 
-## Repositories
-* [Asteroid Dodger](http://github.com/irisdroidology/unityballs)
+![Exploring the documentation](.gitbook/assets/gitbook-sidebar.PNG)
 
-# Member Repositories
-
-Our members have their own personal github accounts,  where they have repositories not related to ACORD but are still worth mentioning.
-
-### Member Accounts
-
-* [Liam Arbuckle](http://github.com/irisdroidology) --- Our Chairman & Co-Founder publishes content to do with his schooling as well as his computer science projects. These projects will help him when it comes to developing with ACORD (which he is also doing)
-* [Farid](http://github.com/mfaridn03) --- Farid is a sort of fringe member of ACORD. He helps us with Python stuff
-
-### Other companies
-
-* [Orgzy Design](http://github.com/orgzy-design) --- Liam Arbuckle's web development company. 20% of the profits go towards ACORD
-
-### Liam's Repositories
-
-* [Games](http://github.com/irisdroidology/expert-goggles) --- A number of games created in numerous languages. One is a role playing game from the perspective of the Mars rover
-
-## Stellarios Learning
-* [Raspberry Pi](https://gitlab.com/acord-robotics/robodev/s2rd-raspberry-pi)
-* [C++](https://gitlab.com/IrisDroidology/cpp-tutorial-vLnPwxZdW4Y)
+The main documentation - where you're on right now - is labelled "1.0.0" and is at the top of the sidebar. To view documentation specific to a project, you can just click the button to navigate to the other projects. Project documentation is also available on the external project website. When brainstorming, logging and creating commits, we use the project _website_ for this purpose.  
 
 
-# Project embeds
-## Games
-### Asteroid Dodgers
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/ccededa2-2c8b-4354-a0ee-f1d9b6223a91" id="M.RDRu6C6a.y"></iframe></div>
-# Our members
+## News & Media
 
-## Farid Nurrahman
-Hi there! My name is Farid, and I am excited to join ACORD and become a pioneer of the future of robotics and artificial intelligence. I like to play games and program. I currently code a lot in Python and am working on a cool discord bot that will be part of Stellarios (the official OS of ACORD). I am not always able to be active at ACORD, but I will contribute where and when I can. Here's some of my code:
+We publish blog posts consistently on our main blog, http://blog.acord.software:
 
-```py
-import aiohttp
-import random
+![Our blog in March 2020](.gitbook/assets/tumblr-blog1.PNG)
+
+These are shared to our Facebook, Twitter, & Instagram profiles. We use Canva to create the cover images and Disqus for commenting. 
+
+## Our Online Presence
+
+We're visible on the main social media platforms, including Facebook, Twitter, Instagram, YouTube and Tumblr. We also have profiles on version management services like Github & Gitlab. Our username is @ACORDRobotics
+
+### Rules regarding social media
+
+The following people currently have access to our social media profiles:
+
+* Nicholas Antipas
+* Liam Arbuckle \(Chairman\)
+* Dylan Crowe \(CEO\)
+* Rishabh Chakrabanty
+
+You're free to tag @ACORDRobotics in your user profile on social media:
+
+![Tagging us in your social media profiles](.gitbook/assets/gitbook-social.PNG)
+
+You're also free to post about us on social media in the following circumstances:
+
+* You write a post on our blog
+* You contribute to one of our projects
+* You are the receipient of a reward/award while working with us
+
+Members are also free to gain access to our social media profiles if they write on our blog a lot, as getting our posts out to the public via Facebook & Twitter is incredibly important to our growth as a brand & as an identity.
+
+## Community website
+
+Our original website \(built with Wordpress\) was retired in January 2020, however we're still just as committed to ensuring that all of our services are integrated and that we have a fun & easy to use community section of our website.
+
+The goal of this major project is to have a community website, with user profiles, a forum, groups and file sharing \(among other things - check out the great [Buddypress](http://buddypress.org) plugin\) that we can use for co-ordination of our projects, sharing & brainstorming ideas, and just communicating. We also want Github integrations with our website so that we can contribute from anywhere.
+
+There's some great articles we've written on the blog about our goal:
+
+* [Contributing code through discussion](https://blog.acord.software/post/612260427615928320/contributing-code-through-discussion) by L.Arbuckle
+* [Our Network Ambitions](https://blog.acord.software/post/611947364722360320/ac0rd-digest-our-network-ambitions) by L.Arbuckle
+* [HTML Dashboards for administration](https://blog.acord.software/post/611809431430283264/html-dashboards-for-administration) by L.Arbuckle
+* [Constructing social networks](https://blog.acord.software/post/611414544827432960/constructing-a-social-network) by L.Arbuckle
+
+### Current status
+
+![](.gitbook/assets/gitbook-contributing1.PNG)
+
+![](.gitbook/assets/gitbook-contributing2.PNG)
+
+On the Stellarios documentation, we have a combination of Disqus, JointComments & Utteranc.es to provoke user discussion, collaboration & development. Link: [http://acord.software/stellarios/manacaster-spaceship/](http://acord.software/stellarios/manacaster-spaceship/)
+
+#### Build Issues
+
+For any issues with the [bootstrap site](http://github.com/acord-robotics/acord-robotics.github.io) building with the github pages service, consult the "settings" tab of the repository. Email an administrator if this tab is not visible for you.
+
+Administrators:
+
+* Liam Arbuckle: liam@acord.software & gizmotronn@acord.software
+* Rishabh Chakrabanty
+* Basanta Kandel
+
+You can also message us on the chat service on the website, which is an upcoming feature \(see below\).
+
+### Upcoming Features
+
+* Chat function - also available in-app
+* Progressive web app
+* HTML Cards - assigned to Basanta
+* Open Source Social Network
+* Video tutorial library
 
 
-class Url:
-    def __init__(self):
-        self.apiUrl = "https://xkcd.com/{}/info.0.json"
-        self.comicUrl = "https://xkcd.com/{}"
-        self.explainUrl = "https://explainxkcd.com/{}"
-        self.infoUrl = "https://xkcd.com/info.0.json"
+
+### Forums
+
+The community forums are made up of the following software: 
+
+* Jointcomments
+* Disqus
+* Utteranc.es
+* BBPress & phpBB
+* Jekyll
+* Bootstrap
+* Wordpress
+* Buddypress
+
+ The forum threads are created on Jekyll, however for a list of upcoming threads that haven't been published yet, go to [this thread](http://acord.software/stellarios/threads).
+
+## Ideas 
+
+All of our thoughts and ideas are commonly sent on the JointComments plugin, or in slack at http://acordrobotics.slack.com
+
+## Current Projects
+
+{% tabs %}
+{% tab title="Manacaster" %}
+> "Earth's last video game"
+
+Manacaster is a 2D RPG programmed in Unity and created by AC0/RD. 
+
+### Timeline
+
+* Started: July 2019
+* Status: open \(as of March 2020\)
+
+### Project Information
+
+* Project maintainers: D.Vekaria, L.Arbuckle, M.Evans
+* Repository: Github/Acord-Robotics/Manacaster
+* Cost: none
+* Type: game
+* Software: Unity Game Engine
+{% endtab %}
+
+{% tab title="CallForCode 2020" %}
+### Timeline
+
+* Started: March 2020
+* Status: open \(as of March 2020\)
+
+### Project Information
+
+* Project maintainers: R.Chakrabanty, E.Montgomery
+* Software: AWS
+* Type: software, machine learning
+* Cost: none
+* Repository: Github/Exynos-999/CallForCode2020
+{% endtab %}
+
+{% tab title="Website" %}
+### Timeline
+
+* Started: 2016
+* Status: open \(as of March 2020\)
+
+### Project Information
+
+* Project maintainer: L.Arbuckle
+* Type: internet
+* Software: wordpress, raspbian, reddit, bootstrap
+* Repository: Github/Acord-Robotics/Portal
+* Cost: none \(as of March 2020\) \(originally covered by Mindbuzz.com.au\)
+{% endtab %}
+{% endtabs %}
 
 
-url = Url()
 
 
-class Comic:
-    def __init__(self, json_info: dict):
-        self.info = json_info
-        self.title = json_info["safe_title"]
-        self.alt_text = json_info["alt"]
-        self.image = json_info["img"]
-        self.num = json_info["num"]
-        self.explanation = url.explainUrl.format(self.num)
-        self.url = url.comicUrl.format(self.num)
 
+## Archived Projects
 
-async def fetch_json(num: int):
-    link = url.apiUrl.format(num)
-    async with aiohttp.ClientSession() as session:
-        async with session.get(link) as resp:
-            assert resp.status == 200  # To make sure there are no errors
-            return await resp.json()
+{% hint style="info" %}
+These projects are "archived", or read-only, however they are all still viewable on our Github page and we're happy to re-open any projects that you're interested in improving
+{% endhint %}
 
+{% tabs %}
+{% tab title="Original Wordpress Website" %}
+## Timeline
 
-async def comic_check(c_num):
-    async with aiohttp.ClientSession() as ses:
-        async with ses.get(url.infoUrl) as res:
-            e = await res.json()
-    latest_comic = e["num"]
-    return int(latest_comic), int(c_num) <= int(latest_comic)
+* Started: August 2016
+* Finished: January 2020
 
+### Information
 
-async def get_comic(num):
-    num = int(num)
+* Project type: website
+* Software used: wordpress \(self-hosted\)
+* Cost: none \(sponsored by Mindbuzz.com.au\)
+* Project maintainers: L.Arbuckle, S.Firth
+* Repository Link: Github/Acord-Robotics/Portal/tree/Portal
+{% endtab %}
 
-    try:
-        assert (await comic_check(num))[1]
-    except AssertionError:
-        return None
+{% tab title="Rainmeter" %}
+## Timeline
 
-    j = await fetch_json(num)  # returns a json object
-    return Comic(j)
+* Started: 2018
+* Closed: 2019
 
+### Information
 
-async def get_random_comic():
-    lim, _ = await comic_check(1)  # Find the latest comic num
-    return await get_comic(random.randint(1, lim))
+* Software: Rainmeter
+* Cost: none
+* Project maintainers: L.Arbuckle
 
+### Status
 
-async def get_latest_comic():
-    latest_num, _ = await comic_check(1)
-    return await get_comic(latest_num)
+This project is currently archived as we prepare to work on other projects like Manacaster, however it is by no means closed forever.
+{% endtab %}
 
-```
+{% tab title="Open Source Rover Challenge" %}
+### Timeline
 
-## RexOfSpoon17
-https://www.tapatalk.com/groups/acordrobotics/hello-from-rexton-t6.html#p12 - link to intro of RexOfSpoon
+* Started: December 2019
+* Finished: March 2020
 
-## j-brkr
-I might be a human...
+### Information
+
+* Members: R.Chakrabanty, L.Arbuckle, E.Montgomery, M.Asavkin
+* Project maintainer: R.Chakrabanty
+* Software: AWS, Linux Ubuntu, Gazebo
+* Cost: $500
+* Repository: Github/Exynos-999/AWS\_JPL\_OSR\_DRL
+{% endtab %}
+{% endtabs %}
+
+## To-Do List
+
+This section is just for general things that our members have to do, for example writing a new blog post or fixing a broken link. For larger "to-dos", like creating a new feature on the website \(e.g. HTML cards\), create a new section on the project's documentation page.
+
+* Write new blog post about Gitbook
+* Create cover image & instagram images for above blog post
+* Fix error on [readme](http://github.com/acord-robotics/acord-robotics.github.io/blob/master/readme.md) - liquid
+* Send message in slack about Gitbook & the alternative solutions
+* Update Project \#10 on Github - March 2020
+* UROP - Rishabh Chakrabanty
+* Call For Code 2020
+* Organise meeting with applicants on Facebook
+* Organize voting in slack
+* Categorize slack plugin archives!
+
+![](.gitbook/assets/slack-vote-1.PNG)
+
+* [Name.com Gsuite](https://www.name.com/gsuite)
+
