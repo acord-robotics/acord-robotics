@@ -13,3 +13,15 @@
       * [Web-next-steps](acord-web/projects/web/web-next-steps.md)
 * [Web-next-steps](web-next-steps.md)
 
+## Links
+
+* [Blog](https://blog.acord.software/)
+* [Archives](https://blog.acord.software/archive)
+* [Instagram](https://instagram.com/ACORDRobotics)
+* [Facebook](https://facebook.com/droidology)
+
+## Repositories - 2020
+
+* [Manacaster](https://github.com/acord-robotics/manacaster)
+* [Space Challenge 2020](https://github.com/exynos-999/AWS_JPL_OSR_DRL)
+
