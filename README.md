@@ -121,10 +121,10 @@ All of our thoughts and ideas are commonly sent on the JointComments plugin, or 
 ## Current Projects
 
 {% tabs %}
-{% tab title="Manacaster" %}
+{% tab title="Star Sailors: Ansible" %}
 > "Earth's last video game"
 
-Manacaster is a 2D RPG programmed in Unity and created by AC0/RD. 
+Manacaster \(dev name, actual name is Star Sailors: Ansible\) is a 2D RPG programmed in Unity and created by AC0/RD. 
 
 ### Timeline
 
