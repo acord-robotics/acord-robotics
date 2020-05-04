@@ -28,14 +28,9 @@ Thanks to Github Education, we've been able to use Customerly for the next 6 mon
 This code can be embedded on any HTML page, but please check with us before you insert it anywhere
 {% endhint %}
 
-Once you're strong enough, save the world:
+### What we need to do
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+* [x] Create customerly account
+* [ ] Embed in Bootstrap site
+* [ ] Connect to Slack \(we need to find a chat plugin that incorporates with slack\)
 
