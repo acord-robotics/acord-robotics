@@ -4,21 +4,13 @@ description: This page is currently (again) a WIP
 
 # Archives
 
-## March 2020
+## Wordpress Blog \(2016-20\)
 
-### Fixed
+Before we retired the old Wordpress site \(http://allianceofdroids.org.au\), we published over 200 blog posts to the site. You can view these at http://github.com/acord-robotics/portal
 
-* Removed humans, they weren't doing fine with animals.
+## Documentation Archives
 
-### Changed
-
-* Animals are now super cute, all of them.
-
-## 14.0.0 - 2042-10-06
-
-### Added
-
-* Introduced animals into the world, we believe they're going to be a neat addition.
+* [March 2020 Docs](march-2020-docs.md)
 
 
 

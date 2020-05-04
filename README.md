@@ -35,27 +35,6 @@ These are shared to our Facebook, Twitter, & Instagram profiles. We use Canva to
 
 We're visible on the main social media platforms, including Facebook, Twitter, Instagram, YouTube and Tumblr. We also have profiles on version management services like Github & Gitlab. Our username is @ACORDRobotics
 
-### Rules regarding social media
-
-The following people currently have access to our social media profiles:
-
-* Nicholas Antipas
-* Liam Arbuckle \(Chairman\)
-* Dylan Crowe \(CEO\)
-* Rishabh Chakrabanty
-
-You're free to tag @ACORDRobotics in your user profile on social media:
-
-![Tagging us in your social media profiles](.gitbook/assets/gitbook-social.PNG)
-
-You're also free to post about us on social media in the following circumstances:
-
-* You write a post on our blog
-* You contribute to one of our projects
-* You are the receipient of a reward/award while working with us
-
-Members are also free to gain access to our social media profiles if they write on our blog a lot, as getting our posts out to the public via Facebook & Twitter is incredibly important to our growth as a brand & as an identity.
-
 ## Community website
 
 Our original website \(built with Wordpress\) was retired in January 2020, however we're still just as committed to ensuring that all of our services are integrated and that we have a fun & easy to use community section of our website.
@@ -77,6 +56,8 @@ There's some great articles we've written on the blog about our goal:
 
 On the Stellarios documentation, we have a combination of Disqus, JointComments & Utteranc.es to provoke user discussion, collaboration & development. Link: [http://acord.software/stellarios/manacaster-spaceship/](http://acord.software/stellarios/manacaster-spaceship/)
 
+We're also using a combination of Flarum \(forums\), Wordpress \(Gamificiation & integration with our software\), and Tribe.so \(internal social network\). Disqus is one of the methods we use to integrate all of these services into our network. 
+
 #### Build Issues
 
 For any issues with the [bootstrap site](http://github.com/acord-robotics/acord-robotics.github.io) building with the github pages service, consult the "settings" tab of the repository. Email an administrator if this tab is not visible for you.
@@ -89,13 +70,15 @@ Administrators:
 
 You can also message us on the chat service on the website, which is an upcoming feature \(see below\).
 
-### Upcoming Features
+### Upcoming Features & Projects
 
 * Chat function - also available in-app
 * Progressive web app
 * HTML Cards - assigned to Basanta
 * Open Source Social Network
 * Video tutorial library
+* Django games library
+* Single Sign On
 
 
 
@@ -111,6 +94,10 @@ The community forums are made up of the following software:
 * Bootstrap
 * Wordpress
 * Buddypress
+* Flarum
+* MyArcadePlugin
+* Slack
+* Stack Exchange
 
  The forum threads are created on Jekyll, however for a list of upcoming threads that haven't been published yet, go to [this thread](http://acord.software/stellarios/threads).
 
@@ -140,19 +127,20 @@ Manacaster \(dev name, actual name is Star Sailors: Ansible\) is a 2D RPG progra
 * Software: Unity Game Engine
 {% endtab %}
 
-{% tab title="CallForCode 2020" %}
-### Timeline
+{% tab title="Django Games Library" %}
+## Timeline
 
-* Started: March 2020
-* Status: open \(as of March 2020\)
+* Started: April 2020
 
-### Project Information
+## Information
 
-* Project maintainers: R.Chakrabanty, E.Montgomery
-* Software: AWS
-* Type: software, machine learning
-* Cost: none
-* Repository: Github/Exynos-999/CallForCode2020
+* Project type: library \(collection of software\)
+* Software used: Django \(Python\), Unity \(Games\), Javascript, Pygame
+* Cost: none 
+* Project maintainers: L.Arbuckle, D.Musovic
+* Repositories: Gizmotronn/Space-Attackers, Gizmotronn/Django-Games
+
+This project started off as something for me to do to improve my knowledge of Python, however over the last few weeks I've been thinking about how else I can use it. I'm going to be inserting it into my Computer Science assessment at school and once we get a single-sign-on system set up for AC0/RD, it will also serve as a games library that users can play on our site. These don't just have to be on a Django site, but pygame will work well with Django as well.
 {% endtab %}
 
 {% tab title="Website" %}
@@ -240,10 +228,10 @@ This section is just for general things that our members have to do, for example
 * Send message in slack about Gitbook & the alternative solutions
 * Update Project \#10 on Github - March 2020
 * UROP - Rishabh Chakrabanty
-* Call For Code 2020
 * Organise meeting with applicants on Facebook
-* Organize voting in slack
 * Categorize slack plugin archives!
+* Create single sign on solution
+* Fix bootstrap site on large monitors
 
 ![](.gitbook/assets/slack-vote-1.PNG)
 
