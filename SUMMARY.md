@@ -13,10 +13,11 @@
       * [Web-next-steps](acord-web/projects/web/web-next-steps.md)
 * [Web-next-steps](web-next-steps.md)
 
-## Competitions
+## Projects <a id="projects-1"></a>
 
-* [Competitions](competitions/competitions/README.md)
-  * [Call for Code 2020](competitions/competitions/archives.md)
+* [Competitions](projects-1/competitions/README.md)
+  * [Call for Code 2020](projects-1/competitions/archives.md)
+* [Project Arcadia](projects-1/project-arcadia.md)
 
 ## Links
 
