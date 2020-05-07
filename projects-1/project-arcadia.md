@@ -2,7 +2,7 @@
 description: >-
   Project Arcadia, a major project by AC0/RD and a part of AC0/RD, is a
   collection of retro arcade games that have been remastered and remade using
-  21st century assets, scripts and hardware.
+  21st-century assets, scripts, and hardware.
 ---
 
 # Project Arcadia
