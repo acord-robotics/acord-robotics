@@ -17,7 +17,22 @@ When we first came up with the idea of creating a Star Sailors game, we envision
 
 To accomplish this, while you will have the option to play Arcadia games without creating an account, it is highly recommended that you do. By creating an account, you not only get access to the full games library \(initially created with Django\), you get access to the main Star Sailors game, the community forums and the source code \(through authenticiation with Github\). 
 
+When someone mentions classic games, what do you think of?
+
+* Pacman
+* Space Invaders
+* Super Mario
+* Donkey Kong
+
+ We’ll be remaking all these games, and more, in Project Arcadia. What’s more, we’ll be adding new features, new levels and new art into our remakes. Even new lore - while our games will pay homage to the original games, they are \(in effect\) part of the Star Sailors universe. Monkeys will become “Apexes” \(imagine apes crossed with highly-evolved humans\), the ships seen in the Star Sailors novels will become the ships that you have to fight with, and against, in Space Invaders. Our goal is a fully unified universe. You can view the [`lore here`](https://acord.software/stellarios/starsailors#star-sailors-lore).
+
 ## Credits
 
 Thanks to Zenva Academy for the initial "skeleton" of a lot of the Arcadia games, and for helping us to learn how to build these projects.
+
+{% page-ref page="../projects/" %}
+
+Press releases:
+
+* [A Django Games Library](https://acord.software/stellarios/hydejack/django/python/games/2020-05-05-django-games-library/)
 
