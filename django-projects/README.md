@@ -25,7 +25,7 @@ It's recommended to look up tutorials on the internet for how to fully install D
 
 Here's our first Django project:
 
-
+{% page-ref page="./" %}
 
 
 
