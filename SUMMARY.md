@@ -1,11 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Home](home.md)
-* [Archives](archives.md)
-* [Changelog](changelog/README.md)
-  * [Manacaster](changelog/manacaster.md)
-  * [Untitled](changelog/untitled.md)
+* [Django Projects](django-projects/README.md)
+  * [Personal\_Portfolio](django-projects/personal_portfolio.md)
 
 ## Links
 
