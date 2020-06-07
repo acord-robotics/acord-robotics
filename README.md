@@ -21,7 +21,7 @@ Starting to contribute to projects can be hard, so we've got a list of awesome s
 ### Python Projects
 
 * Arcadia
-* [Python](https://docs.acord.software/python)
+* [Python](https://docs.acord.software/v/python)
 
 ### C\# Projects
 
