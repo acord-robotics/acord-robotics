@@ -1,33 +1,30 @@
 # Table of contents
 
-* [AC0/RD](README.md)
-* [Customer Relations](web/README.md)
-  * [Web-next-steps](web/web-next-steps.md)
-* [Git on the go](projects/README.md)
-  * [web](projects/web/README.md)
-    * [Web-next-steps](projects/web/web-next-steps.md)
-* [Archives](acord-web/README.md)
-  * [March 2020 Docs](acord-web/march-2020-docs.md)
-  * [projects](acord-web/projects/README.md)
-    * [web](acord-web/projects/web/README.md)
-      * [Web-next-steps](acord-web/projects/web/web-next-steps.md)
-* [Web-next-steps](web-next-steps.md)
-
-## Projects <a id="projects-1"></a>
-
-* [Competitions](projects-1/competitions/README.md)
-  * [Call for Code 2020](projects-1/competitions/archives.md)
-* [Project Arcadia](projects-1/project-arcadia.md)
+* [Introduction](README.md)
+* [Home](home.md)
+* [Archives](archives.md)
+* [Changelog](changelog/README.md)
+  * [Manacaster](changelog/manacaster.md)
+  * [Untitled](changelog/untitled.md)
 
 ## Links
 
-* [Blog](https://blog.acord.software/)
-* [Archives](https://blog.acord.software/archive)
-* [Instagram](https://instagram.com/ACORDRobotics)
-* [Facebook](https://facebook.com/droidology)
+* [Github](http://github.com/acord-robotics)
+* [Blog](http://acord-robotics.github.io/acord-robotics.github11)
 
-## Repositories - 2020
+## Portal Help
 
-* [Manacaster](https://github.com/acord-robotics/manacaster)
-* [Space Challenge 2020](https://github.com/exynos-999/AWS_JPL_OSR_DRL)
+* [The ACORD Portal](portal-help/the-acord-portal.md)
+* [Getting started with ACORD](portal-help/getting-started-with-acord.md)
+
+## Development <a id="dev"></a>
+
+* [Github](dev/github/README.md)
+  * [Zenhub](dev/github/zenhub.md)
+* [Codepen](dev/codepen.md)
+* [Liam Arbuckle](http://larbuckle.tech)
+
+## Projects
+
+* [Open Source Rover Challenge](projects/open-source-rover-challenge.md)
 
