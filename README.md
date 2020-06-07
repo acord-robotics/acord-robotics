@@ -12,6 +12,60 @@ ACORD Robotics is a software, scientific engineering and writing organisation th
 
 
 
+## Projects by language
+
+{% hint style="info" %}
+Starting to contribute to projects can be hard, so we've got a list of awesome stuff that you can download, play with and start contributing to that is based around one or two languages, making it easy for you to start working on something.
+{% endhint %}
+
+### Python Projects
+
+* Arcadia
+* [Python](https://docs.acord.software/python)
+
+### C\# Projects
+
+* Manacaster
+
+### HTML
+
+* Argon Dashboard
+* Vue Dashboard
+
+
+
+{% api-method method="get" host="https://github.com/acord-robotics/repo\_name" path="/download" %}
+{% api-method-summary %}
+Clone Repos
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
 ## Using this knowledge base
 
 Everything that you need to know during your time as an AC0/RD member can be found here. This includes the project history, rules when committing to repositories on Github, how the network works and where to find certain things. Something important to remember is that the documentation for our _projects_ is located elsewhere, on the project page. 
